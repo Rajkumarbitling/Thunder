@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    color: 'blue',
+    color: '#55a8fd',
   },
   button: {
     margin: 5,
